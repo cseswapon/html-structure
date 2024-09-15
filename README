@@ -1,0 +1,69 @@
+# Home Work Assignment
+
+## Description
+
+This project is a basic web page layout designed as a homework assignment. It includes a header, a two-column layout for content, and a footer. The layout is responsive and uses basic HTML and CSS to display the content in a simple and organized manner.
+
+## Features
+
+- **Header:** Contains a big header, a logo, and a navigation menu with links to "Home" and "About".
+- **Main Section:** Features a two-column layout where the left side is 10% of the width and the right side takes up the remaining 90%.
+- **Footer:** Displays a copyright notice.
+
+## Layout Details
+
+- **Header:** Uses flexbox to arrange elements horizontally.
+- **Main Section:** Uses flexbox to create a two-column layout with specified widths.
+- **Footer:** Centered text with background color and border.
+
+## Usage
+
+1. Clone the repository to your local machine:
+    ```bash
+    git clone https://github.com/cseswapon/html-structure.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd homework-assignment
+    ```
+
+3. Open `index.html` in your web browser to view the project.
+
+## HTML Structure
+
+- `<header>`: Contains the title, logo, and navigation menu.
+- `<main>`: Contains the two-column layout for the content.
+- `<footer>`: Displays the copyright information.
+
+## CSS Styling
+
+- The `header` is styled with a background color and flexbox for layout.
+- The `.container` class uses flexbox to position the left and right content.
+- The `left-side` is set to 10% width and the `right-side` to 90% width.
+
+## Contributing
+
+If you want to contribute to this project:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/YourFeature`).
+3. Commit your changes (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature/YourFeature`).
+5. Create a new Pull Request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or feedback, please reach out to:
+
+- **Name:** Swapon Saha
+- **Email:** cseswaponsaha@gmail.com
+- **GitHub:** [Your GitHub Profile](https://github.com/cseswapon)
+
+---
+
+Thank you for checking out this project!
